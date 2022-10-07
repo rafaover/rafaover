@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaover
 - 👀 I’m interested in Mobile and collaborative tech
-- 🌱 I’m currently learning Kotlin and Python
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me by email (rafamsilva@gmail.com)
 
