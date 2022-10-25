@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafaover. Before moving definitely to tech I was a business developer/Owner for 22 years.
+- 👋 Hi, I’m @rafaover. Before moving definitely to tech I was a business developer/Owner for 15 years.
 - Studied CS on 1999, moved to Team Management (Many sectors) and that's it, 2022 was my comeback.
 - More details here: https://www.linkedin.com/in/rafamsilva/
 - 👀 I’m interested in Mobile and collaborative tech
