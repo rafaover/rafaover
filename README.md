@@ -2,7 +2,7 @@
 - Studied CS on 1999, moved to Team Management (Many sectors) and that's it, 2022 was my comeback.
 - More details here: https://www.linkedin.com/in/rafamsilva/
 - 👀 I’m interested in Mobile, Linux and Collaborative tech
-- 🌱 I’m currently learning Kotlin/Web Dev
+- 🌱 I’m currently learning Android Dev and Web Dev
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me by email (rafamsilva@gmail.com)
 
