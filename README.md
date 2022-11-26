@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-👋 Hi, I’m Rafael. 15y as business developer/owner in advertising now moving to Software Dev.
+👋 Hi, I’m Rafael. 15y in Business now moving to Software Dev.
 <br>👀 I’m interested in Mobile Development and Collaborative tech
 <br>🌱 I’m currently learning Android Development (Kotlin + JetPack Compose) and Web Dev (JS + Ruby) 
 <br>💞️ I’m looking to collaborate on anything
