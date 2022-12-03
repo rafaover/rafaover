@@ -10,8 +10,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafamsilva) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12152180) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rafamsilva) 
 
-[![Rafaover github activity graph](https://activity-graph.herokuapp.com/graph?username=rafaover&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rafaover&icon=5&color=6)](https://visitcount.itsvg.in)
 
