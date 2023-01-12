@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-👋 Hi, I’m Rafael. 15y in Business/Project Management now moving to Software Development.
+👋 Hi, I’m Rafael. 15y in Business/Project Management as a partner now moving to Software Development.
 <br>👀 I’m interested in Mobile Development. Currently working on MATip App.
 <br>🌱 I’m currently learning Android Development (Kotlin), Web Development, Figma and Testing.
 <br>📫 How to reach me by email (rafamsilva@gmail.com)
