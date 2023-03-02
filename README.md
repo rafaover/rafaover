@@ -5,7 +5,7 @@
 <br>👀 I’m interested in Mobile Development. Currently working on MATip App and PatientTruth.
 <br>🌱 I’m currently learning Android Development (Kotlin + Jetpack Compose) and Web Development.
 <br>📫 How to reach me by email (rafamsilva@gmail.com)
-<br>   I’m looking to collaborate on anything
+<br>   I’m looking to collaborate.
 
 ### Skills
 
