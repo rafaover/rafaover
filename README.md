@@ -1,10 +1,10 @@
 # 💫 About Me:
 
 
-From Business/Project Management as a partner now moving to Software Development.
+From partner for 15yrs in Advertising industry to Software Engineering.
 <br> I’m interested in Mobile Development. Currently working on MATip App and PatientTruth.
 <br> I’m currently learning Android Development (Kotlin + Jetpack Compose) and Web Development.
-<br> I’m looking to collaborate.
+<br> I’m looking to collaborate. If you need a brainstorm of ideas, I'm interested.
 <br> 📫 How to reach me by email (rafamsilva@gmail.com)
 
 ## 🌐 Socials:
