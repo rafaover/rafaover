@@ -1,10 +1,11 @@
 # 💫 About Me:
 
 
-From partner for 15yrs in Advertising industry to Software Engineering.
-<br> I’m interested in Mobile Development. Currently working on MATip App and PatientTruth.
-<br> I’m currently learning Android Development (Kotlin + Jetpack Compose) and Web Development.
-<br> I’m looking to collaborate. If you need a brainstorm of ideas, I'm interested.
+15yrs partner in Advertising industry to Software Engineering. 
+<br> I'm a experienced creative director/planner, with clear knowledge in branding, consumer behaviour and team management.
+<br> Interested in Mobile Development. Currently working on MATip App and PatientTruth.
+<br> Currently learning Android Development (Kotlin + Jetpack Compose) and Web Development.
+<br> Looking to collaborate. If you need a brainstorm of ideas, I'm interested!
 <br> 📫 How to reach me by email (rafamsilva@gmail.com)
 
 ## 🌐 Socials:
