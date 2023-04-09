@@ -6,7 +6,7 @@
 <br> Interested in Mobile Development
 <br> Learning Android Development (Kotlin + Jetpack Compose) and Web Development
 <br> Currently working on MATip App and PatientTruth 
-<br> Implementing more features at Pleasegpt ruby gem
+<br> Always trying to implementing more features on my PleaseGPT Ruby gem
 <br> Looking to collaborate. If you need a brainstorm of ideas, I'm interested
 <br> 📫 How to reach me by email (rafamsilva@gmail.com)
 
