@@ -2,7 +2,7 @@
 
 
 15yrs partner in Advertising industry to Software Engineering
-<br> I'm a experienced creative director/planner, with clear knowledge in branding, consumer behaviour and team management
+<br> I'm a experienced creative director/planner and project manager
 <br> Interested in Mobile Development
 <br> Learning Android Development (Kotlin + Jetpack Compose) and Web Development
 <br> Currently working on MATip App and PatientTruth 
