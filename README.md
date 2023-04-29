@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 
 15yrs partner in Advertising industry to Software Engineering
 <br> I'm a experienced creative director/planner and project manager
