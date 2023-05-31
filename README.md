@@ -1,9 +1,8 @@
 
 15yrs partner in Advertising industry to Software Engineering
-<br> I'm a experienced creative director/planner and project manager
+<br> Experienced creative director/planner and project manager
 <br> Interested in Mobile Development
 <br> Learning Android Development (Kotlin + Jetpack Compose) and AWS
-<br> Currently working on PatientTruth 
 <br> Always trying to implementing more features on my PleaseGPT Ruby gem
 <br> Looking to collaborate. If you need a brainstorm of ideas, I'm interested
 <br> 📫 How to reach me by email (rafamsilva@gmail.com)
