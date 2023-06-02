@@ -3,7 +3,7 @@
 <br> Experienced creative director/planner and project manager
 <br> Interested in Mobile Development and Open Source
 <br> Learning Android Development (Kotlin + Jetpack Compose) and AWS
-<br> Always trying to implementing more features on my PleaseGPT Ruby gem
+<br> Workin in more features on my PleaseGPT Ruby gem
 <br> Playing around the OpenAI API and working on a personal project, "PatientTruth"
 <br> Looking to collaborate. If you need a brainstorm of ideas, I'm interested
 <br> 📫 How to reach me by email (rafamsilva@gmail.com)
