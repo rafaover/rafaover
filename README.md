@@ -5,6 +5,16 @@
 <br> Learning Android Development (Kotlin + Jetpack Compose) and AWS
 <br> Workin in more features on my PleaseGPT Ruby gem
 <br> Playing around the OpenAI API and working on a personal project, "PatientTruth"
+
+```kotlin
+fun main() = {
+  var title = listOf("Full Stack Developer", "Web Developer")
+  var learning = "Mobile Development"
+  var languages = listOf("PT-BR", "EN")
+  var stack = listOf("Ruby","Rails","Kotlin","Android","Jetpack Compose","SQL","Bootstrap")
+};
+```
+
 <br> Looking to collaborate. If you need a brainstorm of ideas, I'm interested
 <br> 📫 How to reach me by email (rafamsilva@gmail.com)
 
