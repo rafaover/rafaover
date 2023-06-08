@@ -4,7 +4,7 @@
 <br> Interested in Mobile Development and Open Source
 <br> Learning Android Development (Kotlin + Jetpack Compose) and AWS
 <br> Workin in more features on my PleaseGPT Ruby gem
-<br> Playing around the OpenAI API and working on a personal project, "PatientTruth"
+<br> Working on a personal project, "Medapt" and an Open Source using OpenAi API, "PatientTruth"
 
 ```kotlin
 fun main() = {
