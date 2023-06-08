@@ -9,9 +9,9 @@
 ```kotlin
 fun main() = {
   var title = listOf("Full Stack Developer", "Web Developer")
-  var learning = "Mobile Development"
+  var learning = listOf("Kotlin","Jetpack Compose")
   var languages = listOf("PT-BR", "EN")
-  var stack = listOf("Ruby","Rails","Kotlin","Android","Jetpack Compose","SQL","Bootstrap")
+  var stack = listOf("Ruby","Rails","Kotlin","Bootstrap")
 };
 ```
 
