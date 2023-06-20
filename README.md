@@ -1,10 +1,11 @@
 
-15yrs partner in Advertising industry to Software Engineering
+15yrs partner in the Advertising industry to Software Engineering
 <br> Experienced creative director/planner and project manager
 <br> Interested in Mobile Development and Open Source
-<br> Learning Android Development (Kotlin + Jetpack Compose) and AWS
-<br> Workin in more features on my PleaseGPT Ruby gem
-<br> Working on a personal project, "Medapt" and an Open Source using OpenAi API, "PatientTruth"
+<br> Learning Android Development (Kotlin), Docker and AWS
+<br> Working on more features on my PleaseGPT Ruby gem
+<br> Working on a personal project for the health sector, "Medapt"
+<br> Working in a Open Source using the OpenAi API, "PatientTruth"
 
 ```kotlin
 fun main() = {
@@ -15,7 +16,7 @@ fun main() = {
 };
 ```
 
-<br> Looking to collaborate. If you need a brainstorm of ideas, I'm interested
+<br> Looking to collaborate. If you need a brainstorm of ideas, I'm Interested
 <br> 📫 How to reach me by email (rafamsilva@gmail.com)
 
 ## 🌐 Socials:
