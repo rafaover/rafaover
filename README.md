@@ -1,11 +1,11 @@
 
-<br> - 15yrs partner in the Advertising industry to Software Engineering
-<br> - Experienced creative director/planner and project manager
-<br> - Interested in Mobile Development and Open Source
-<br> - Learning Android Development (Kotlin), Docker and AWS
-<br> - Working on a personal project for the health sector, "Medapt"
-<br> - Working in an Open Source using the OpenAi API, "PatientTruth"
-<br> - Working on more features on my PleaseGPT Ruby gem
+* 15yrs partner in the Advertising industry to Software Engineering
+* Experienced creative director/planner and project manager
+* Interested in Mobile Development and Open Source
+* Learning Android Development (Kotlin), Docker and AWS
+* Working on a personal project for the health sector, "Medapt"
+* Working in an Open Source using the OpenAi API, "PatientTruth"
+* Working on more features on my PleaseGPT Ruby gem
 
 ```kotlin
 fun main() = {
