@@ -1,5 +1,5 @@
 
-15yrs partner in the Advertising industry to Software Engineering
+<br> 15yrs partner in the Advertising industry to Software Engineering
 <br> Experienced creative director/planner and project manager
 <br> Interested in Mobile Development and Open Source
 <br> Learning Android Development (Kotlin), Docker and AWS
