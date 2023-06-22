@@ -2,7 +2,7 @@
 * 15yrs partner in the Advertising industry to Software Engineering
 * Experienced creative director/planner and project manager
 * Interested in Mobile Development and Open Source
-* Learning Android Development (Kotlin), Docker and AWS
+* Learning Android Development (Kotlin + Jetpack Compose), Docker and AWS
 * Working on a personal project for the health sector, "Medapt"
 * Working in an Open Source using the OpenAi API, "PatientTruth"
 * Working on more features on my PleaseGPT Ruby gem
