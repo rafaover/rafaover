@@ -2,7 +2,6 @@
 * 15yrs partner in the Advertising industry to Software Engineering
 * Experienced creative director/planner and project manager
 * Interested in Mobile Development and Open Source
-* Learning Android Development (Kotlin + Jetpack Compose), Docker and AWS
 * Working on a personal project for the health sector, "Medapt"
 * Working in an Open Source using the OpenAi API, "PatientTruth"
 * Working on more features on my PleaseGPT Ruby gem
@@ -10,7 +9,7 @@
 ```kotlin
 fun main() = {
   var title = listOf("Full Stack Developer", "Web Developer")
-  var learning = listOf("Kotlin", "Jetpack Compose", "Docker")
+  var learning = listOf("Android Development", "Docker", "AWS")
   var languages = listOf("PT-BR", "EN")
   var stack = listOf("Ruby","Rails","Kotlin","Bootstrap")
 };
