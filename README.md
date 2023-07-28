@@ -2,7 +2,6 @@
 * 15yrs partner in the Advertising industry, moved to Software Engineering
 * Experienced creative director/planner and project manager
 * Interested in Mobile Development and Open Source
-* Working on a web app for the health sector, "Medapt"
 * Working on an Open Source project using the OpenAi API, "PatientTruth"
 
 ```kotlin
