@@ -1,8 +1,7 @@
 
 * 15yrs partner in the Advertising industry, moved to Software Engineering
 * Experienced creative director/planner and project manager
-* Interested in Mobile Development and Open Source
-* Working on an Open Source project using the OpenAi API, "PatientTruth"
+* Interested in Mobile Development, Startups and Open Source.
 
 ```kotlin
 fun main() = {
