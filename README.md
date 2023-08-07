@@ -5,7 +5,6 @@
 
 ```kotlin
 fun main() = {
-  var title = listOf("Full Stack Developer", "Web Developer")
   var learning = listOf("Android Development + Jetpack Compose", "AWS")
   var languages = listOf("PT-BR", "EN")
   var stack = listOf("Ruby","Rails","Kotlin","Bootstrap")
