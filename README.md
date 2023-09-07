@@ -7,7 +7,7 @@
 fun main() = {
   var learning = listOf("Android Development + Jetpack Compose", "AWS")
   var languages = listOf("PT-BR", "EN")
-  var stack = listOf("Ruby","Rails","Kotlin","Bootstrap")
+  var stack = listOf("Ruby","Rails","Kotlin","HTML", "CSS", "Bootstrap", "SQL", " PostgreSQL")
 };
 ```
 
