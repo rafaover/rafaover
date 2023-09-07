@@ -1,7 +1,7 @@
 
 * 15yrs partner in the Advertising industry, moved to Software Engineering
 * Experienced creative director/planner and project manager
-* Interested in Mobile Development, Startups and Open Source.
+* Interested in Mobile Development, WebApps, Startups and Open Source.
 
 ```kotlin
 fun main() = {
