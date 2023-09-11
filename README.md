@@ -1,13 +1,13 @@
 
 * 15yrs partner in the Advertising industry, moved to Software Engineering
-* Experienced creative director/planner and project manager
+* Experienced Business and Project Manager
 * Interested in Mobile Development, WebApps, Startups and Open Source.
 
 ```kotlin
 fun main() = {
   var learning = listOf("Android Development + Jetpack Compose", "AWS")
   var languages = listOf("PT-BR", "EN")
-  var stack = listOf("Ruby","Rails","Kotlin","HTML", "CSS", "Bootstrap", "SQL", " PostgreSQL")
+  var stack = listOf("Ruby","Rails","Kotlin","Jetpack Compose", "HTML", "CSS", "Bootstrap", "SQL", " PostgreSQL")
 };
 ```
 
