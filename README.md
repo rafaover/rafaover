@@ -6,7 +6,10 @@
 ```kotlin
 fun main() = {
   var learning = listOf("Android Development", "Jetpack Compose", "AWS")
-  var stack = listOf("Ruby","Rails","Kotlin","Jetpack Compose", "HTML", "CSS", "Bootstrap", "SQL", "PostgreSQL", "Material Design")
+  var stack = listOf(
+        "Ruby","Rails","Kotlin","Jetpack Compose",
+        "HTML", "CSS", "Bootstrap", "SQL", "PostgreSQL", "Material Design"
+  )
 };
 ```
 
