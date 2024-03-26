@@ -1,11 +1,11 @@
 
 * 15yrs partner in the Advertising industry, moved to Software Engineering
 * Experienced Business and Project Manager
-* Interested in Mobile Development, WebApps, Startups and Open Source.
+* Interested in Mobile Development, Web3, Startups and Open Source.
 
 ```kotlin
 fun main() = {
-  var learning = listOf("Android Development", "AWS")
+  var learning = listOf("Android Development", "Web3", "Solana")
   var stack = listOf(
         "Ruby","Rails","Kotlin","Jetpack Compose",
         "HTML", "CSS", "Bootstrap", "SQL", "Material Design",
