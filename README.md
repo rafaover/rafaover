@@ -7,7 +7,8 @@
 fun main() = {
   var learning = listOf("Android Development", "Web3", "Solana")
   var stack = listOf(
-        "Ruby","Rails","Kotlin","Jetpack Compose",
+        "Ruby","Rails","Android Dev", "Kotlin", "Jetpack Compose",
+        "Retrofit", "Room", "Hilt",
         "HTML", "CSS", "Bootstrap", "SQL", "Material Design",
         "Jira", "VSC", "Jetbrains IDE"
   )
