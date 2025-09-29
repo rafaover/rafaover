@@ -5,7 +5,7 @@
 
 ```kotlin
 fun main() = {
-  var learning = listOf("Android Dev", "KMP", "Compose Multiplatform")
+  var learning = listOf("KMP", "Compose Multiplatform")
   var stack = listOf(
         "Ruby","Rails","Android Dev", "Kotlin", "Jetpack Compose",
         "Retrofit", "Room", "Hilt", "Koin",
